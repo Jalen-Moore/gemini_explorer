@@ -7,7 +7,8 @@ Gemini Explorer starts by asking the user to enter their name into a text field.
 
 # Python Installation Commands
 1. pip install vertexai
-2. pip install streamlit
+2. google-cloud-aiplatform
+3. pip install streamlit
 
 # Python Activation Command
 streamlit run gemini_explorer.py
